@@ -1,5 +1,4 @@
-This is /home/wk/w/libksba/doc/ksba.info, produced by makeinfo version
-4.13 from /home/wk/w/libksba/doc/ksba.texi.
+This is ksba.info, produced by makeinfo version 4.13 from ksba.texi.
 
 INFO-DIR-SECTION GNU libraries
 START-INFO-DIR-ENTRY
@@ -1000,8 +999,8 @@ have to do it like this:
 
 File: ksba.info,  Node: Component Labels,  Next: Copying,  Prev: Error Handling,  Up: Top
 
-Appendix A Component Labels
-***************************
+Anhang A Component Labels
+*************************
 
 RFC-2253 defines the following table with string representations of name
 components:
@@ -1848,33 +1847,33 @@ Function and Data Index
 
 
 Tag Table:
-Node: Top792
-Node: Introduction2827
-Node: Getting Started3105
-Node: Features3971
-Node: Overview5062
-Node: Preparation5311
-Node: Header5794
-Node: Version Check6390
-Node: Building the source7481
-Node: Certificate Handling9325
-Node: Creating certificates10306
-Node: Retrieving attributes12762
-Node: Setting attributes26410
-Node: User data26675
-Node: CMS28596
-Node: CMS Basics29056
-Node: CMS Parser31118
-Node: CRLs35084
-Node: PKCS1035367
-Node: Utilities35634
-Node: Names36038
-Node: OIDs38347
-Node: DNs38551
-Node: Error Handling39686
-Node: Component Labels41040
-Node: Copying42530
-Node: Concept Index80161
-Node: Function and Data Index80309
+Node: Top746
+Node: Introduction2781
+Node: Getting Started3059
+Node: Features3925
+Node: Overview5016
+Node: Preparation5265
+Node: Header5748
+Node: Version Check6344
+Node: Building the source7435
+Node: Certificate Handling9279
+Node: Creating certificates10260
+Node: Retrieving attributes12716
+Node: Setting attributes26364
+Node: User data26629
+Node: CMS28550
+Node: CMS Basics29010
+Node: CMS Parser31072
+Node: CRLs35038
+Node: PKCS1035321
+Node: Utilities35588
+Node: Names35992
+Node: OIDs38301
+Node: DNs38505
+Node: Error Handling39640
+Node: Component Labels40994
+Node: Copying42480
+Node: Concept Index80111
+Node: Function and Data Index80259
 
 End Tag Table

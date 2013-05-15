@@ -95,7 +95,7 @@
 /* #undef HAVE_W32_SYSTEM */
 
 /* Define to use the GNU C visibility attribute. */
-#define KSBA_USE_VISIBILITY 1
+/* #undef KSBA_USE_VISIBILITY */
 
 /* Define to the sub-directory in which libtool stores uninstalled libraries.
    */
